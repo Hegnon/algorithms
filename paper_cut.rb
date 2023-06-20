@@ -16,7 +16,6 @@ def min_paper_squares(width, height)
   
   # Exemplo de uso
   width = 10
-  height = 12
+  height = 8
   min_squares = min_paper_squares(width, height)
   puts "Mínimo de quadrados necessários: #{min_squares}"
-  
